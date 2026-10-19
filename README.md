@@ -17,3 +17,4 @@ show ip ospf neighbor
 show ip route ospf
 
 DR/BDR elections occur per eligible network segment, not once per OSPF area.
+https://pingmynetwork.com/sandbox allows me to create labs like this.
